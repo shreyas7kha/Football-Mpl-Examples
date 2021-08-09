@@ -1,0 +1,99 @@
+Rk,Squad,Country,LgRk,MP,W,D,L,GF,GA,GD,Pts,Pts/G,xG,xGA,xGD,xGD/90,Last 5,Attendance,Top Team Scorer,Goalkeeper
+1,Inter,it ITA,1,38,28,7,3,89,35,+54,91,2.39,74.8,38.6,+36.2,+0.95,W W W L W,158,Romelu Lukaku - 24,Samir Handanović
+2,Bayern Munich,de GER,1,34,24,6,4,99,44,+55,78,2.29,75.8,41.0,+34.8,+1.02,W L W D W,15,Robert Lewandowski - 41,Manuel Neuer
+3,Manchester City,eng ENG,1,38,27,5,6,83,32,+51,86,2.26,73.3,31.3,+42.0,+1.11,W L W L W,526,İlkay Gündoğan - 13,Ederson
+4,Atlético Madrid,es ESP,1,38,26,8,4,67,25,+42,86,2.26,52.4,32.7,+19.7,+0.52,W D W W W,,Luis Suárez - 21,Jan Oblak
+5,Real Madrid,es ESP,2,38,25,9,4,67,28,+39,84,2.21,61.7,36.5,+25.2,+0.66,W D W W W,,Karim Benzema - 23,Thibaut Courtois
+6,Lille,fr FRA,1,38,24,11,3,64,23,+41,83,2.18,50.0,26.7,+23.4,+0.61,W W W D W,209,Burak Yılmaz - 16,Mike Maignan
+7,Paris S-G,fr FRA,2,38,26,4,8,86,28,+58,82,2.16,82.5,37.3,+45.2,+1.19,W W D W W,,Kylian Mbappé - 27,Keylor Navas
+8,Milan,it ITA,2,38,24,7,7,74,41,+33,79,2.08,71.2,45.8,+25.4,+0.67,W W W D W,105,Zlatan Ibrahimović - 15,Gianluigi Donnarumma
+9,Barcelona,es ESP,3,38,24,7,7,85,38,+47,79,2.08,78.9,39.6,+39.3,+1.03,W D D L W,,Lionel Messi - 30,Marc-André ter Stegen
+10,Atalanta,it ITA,3,38,23,9,6,90,47,+43,78,2.05,77.1,42.3,+34.8,+0.92,D W W W L,105,Luis Muriel - 22,Pierluigi Gollini
+11,Juventus,it ITA,4,38,23,9,6,77,38,+39,78,2.05,74.2,38.1,+36.0,+0.95,W L W W W,105,Cristiano Ronaldo - 29,Wojciech Szczęsny
+12,Monaco,fr FRA,3,38,24,6,8,76,42,+34,78,2.05,67.0,33.3,+33.7,+0.89,W L W W D,,Wissam Ben Yedder - 20,Benjamin Lecomte
+13,Napoli,it ITA,5,38,24,5,9,86,41,+45,77,2.03,67.6,41.6,+26.0,+0.68,D W W W D,105,Lorenzo Insigne - 19,Alex Meret
+14,Sevilla,es ESP,4,38,24,5,9,53,33,+20,77,2.03,50.9,35.0,+15.9,+0.42,L D W L W,,Youssef En-Nesyri - 18,Yassine Bounou
+15,Lyon,fr FRA,4,38,22,10,6,81,43,+38,76,2.00,84.4,43.3,+41.1,+1.08,L W W W L,231,Memphis Depay - 20,Anthony Lopes
+16,Manchester Utd,eng ENG,2,38,21,11,6,73,44,+29,74,1.95,60.2,42.2,+18.0,+0.47,W L L D W,526,Bruno Fernandes - 18,David de Gea
+17,RB Leipzig,de GER,2,34,19,8,7,60,32,+28,65,1.91,65.3,29.1,+36.2,+1.06,L W L D L,1059,Marcel Sabitzer - 8,Péter Gulácsi
+18,Dortmund,de GER,3,34,20,4,10,75,46,+29,64,1.88,68.6,40.3,+28.3,+0.83,W W W W W,1241,Erling Haaland - 27,Roman Bürki
+19,Liverpool,eng ENG,3,38,20,9,9,68,42,+26,69,1.82,72.6,45.4,+27.3,+0.72,W W W W W,837,Mohamed Salah - 22,Alisson
+20,Lazio,it ITA,6,38,21,5,12,61,55,+6,68,1.79,59.8,47.7,+12.1,+0.32,L W L D L,158,Ciro Immobile - 20,Pepe Reina
+21,Wolfsburg,de GER,4,34,17,10,7,61,37,+24,61,1.79,49.5,42.0,+7.4,+0.22,W L W D L,538,Wout Weghorst - 20,Koen Casteels
+22,Chelsea,eng ENG,4,38,19,10,9,58,36,+22,67,1.76,64.0,32.8,+31.2,+0.82,W W L W L,526,Jorginho - 7,Edouard Mendy
+23,Eint Frankfurt,de GER,5,34,16,12,6,69,53,+16,60,1.76,56.1,48.4,+7.7,+0.23,W L D L W,853,André Silva - 28,Kevin Trapp
+24,Leicester City,eng ENG,5,38,20,6,12,68,50,+18,66,1.74,56.0,47.7,+8.3,+0.22,D L W L L,421,Jamie Vardy - 15,Kasper Schmeichel
+25,West Ham,eng ENG,6,38,19,8,11,62,47,+15,65,1.71,54.0,48.3,+5.7,+0.15,W L D W W,632,Tomáš Souček Michail Antonio - 10,Łukasz Fabiański
+26,Tottenham,eng ENG,7,38,18,8,12,68,45,+23,62,1.63,54.6,49.5,+5.0,+0.13,W L W L W,632,Harry Kane - 23,Hugo Lloris
+27,Roma,it ITA,7,38,18,8,12,68,58,+10,62,1.63,68.9,51.5,+17.4,+0.46,L W L W D,105,Henrikh Mkhitaryan - 13,Pau López
+28,Sassuolo,it ITA,8,38,17,11,10,64,56,+8,62,1.63,59.2,54.9,+4.3,+0.11,D W L W W,134,Domenico Berardi - 17,Andrea Consigli
+29,Real Sociedad,es ESP,5,38,17,11,10,59,38,+21,62,1.63,60.4,36.6,+23.8,+0.63,L W L W W,,Alexander Isak - 17,Álex Remiro
+30,Arsenal,eng ENG,8,38,18,7,13,55,39,+16,61,1.61,53.5,44.3,+9.2,+0.24,W W W W W,632,Alexandre Lacazette - 13,Bernd Leno
+31,Betis,es ESP,6,38,17,10,11,50,50,0,61,1.61,46.0,45.5,+0.5,+0.01,D W D W W,,Borja Iglesias - 11,Claudio Bravo
+32,Marseille,fr FRA,5,38,16,12,10,54,47,+7,60,1.58,47.6,45.9,+1.7,+0.04,W D L W D,,Arkadiusz Milik - 9,Steve Mandanda
+33,Everton,eng ENG,10,38,17,8,13,47,48,-1,59,1.55,47.0,51.2,-4.1,-0.11,W D L W L,368,Dominic Calvert-Lewin - 16,Jordan Pickford
+34,Leeds United,eng ENG,9,38,18,5,15,62,54,+8,59,1.55,57.5,62.9,-5.4,-0.14,L W W W W,421,Patrick Bamford - 17,Illan Meslier
+35,Villarreal,es ESP,7,38,15,13,10,60,44,+16,58,1.53,58.0,43.6,+14.4,+0.38,W L W W L,253,Gerard Moreno - 23,Sergio Asenjo
+36,Rennes,fr FRA,6,38,16,10,12,52,40,+12,58,1.53,50.0,40.0,+9.9,+0.26,W L D L W,,Sehrou Guirassy - 10,Alfred Gomis
+37,Leverkusen,de GER,6,34,14,10,10,53,39,+14,52,1.53,47.2,40.4,+6.8,+0.20,L W D D L,355,Lucas Alario - 11,Lukáš Hrádecký
+38,Lens,fr FRA,7,38,15,12,11,55,54,+1,57,1.50,56.2,47.7,+8.5,+0.22,W L L L D,,Gaël Kakuta - 11,Jean-Louis Leca
+39,Union Berlin,de GER,7,34,12,14,8,50,43,+7,50,1.47,45.8,41.3,+4.5,+0.13,L W L D W,912,Max Kruse - 11,Andreas Luthe
+40,Aston Villa,eng ENG,11,38,16,7,15,55,46,+9,55,1.45,53.0,52.9,+0.2,0.00,L D L W W,526,Ollie Watkins - 14,Emiliano Martínez
+41,M'Gladbach,de GER,8,34,13,10,11,64,56,+8,49,1.44,55.3,44.6,+10.6,+0.31,L W L L W,628,Lars Stindl - 14,Yann Sommer
+42,Montpellier,fr FRA,8,38,14,12,12,60,62,-2,54,1.42,48.0,65.6,-17.6,-0.46,L L W D W,,Gaëtan Laborde - 16,Jonas Omlin
+43,Celta Vigo,es ESP,8,38,14,11,13,55,57,-2,53,1.39,47.7,49.5,-1.8,-0.05,W W W W L,91,Iago Aspas - 14,Iván Villar
+44,Sampdoria,it ITA,9,38,15,7,16,52,54,-2,52,1.37,46.2,56.9,-10.7,-0.28,W L D W W,105,Fabio Quagliarella - 13,Emil Audero
+45,Nice,fr FRA,9,38,15,7,16,50,53,-3,52,1.37,47.0,51.9,-4.9,-0.13,W L W L W,,Amine Gouiri - 12,Walter Benítez
+46,Freiburg,de GER,10,34,12,9,13,52,52,0,45,1.32,46.2,53.7,-7.5,-0.22,D L W D L,188,Vincenzo Grifo - 9,Florian Müller
+47,Stuttgart,de GER,9,34,12,9,13,56,55,+1,45,1.32,53.2,53.3,-0.1,0.00,L L W W L,978,Sasa Kalajdzic - 16,Gregor Kobel
+48,Hoffenheim,de GER,11,34,11,10,13,52,54,-2,43,1.26,51.7,53.3,-1.6,-0.05,W D W D W,361,Andrej Kramarić - 20,Oliver Baumann
+49,Metz,fr FRA,10,38,12,11,15,44,48,-4,47,1.24,41.3,49.5,-8.2,-0.22,L W L L D,498,Ibrahima Niane Farid Boulaya - 6,Alexandre Oukidja
+50,Athletic Club,es ESP,10,38,11,13,14,46,42,+4,46,1.21,44.5,36.2,+8.3,+0.22,W D L L L,,Álex Berenguer - 8,Unai Simón
+51,Granada,es ESP,9,38,13,7,18,47,65,-18,46,1.21,39.4,53.7,-14.3,-0.38,L L L L D,,Roberto Soldado - 9,Rui Silva
+52,Saint-Étienne,fr FRA,11,38,12,10,16,42,54,-12,46,1.21,48.3,48.5,-0.2,-0.01,L W W D L,,Wahbi Khazri Denis Bouanga - 7,Jessy Moulin
+53,Newcastle Utd,eng ENG,12,38,12,9,17,46,62,-16,45,1.18,40.9,53.9,-13.1,-0.34,L W L W W,526,Callum Wilson - 12,Karl Darlow
+54,Wolves,eng ENG,13,38,12,9,17,36,52,-16,45,1.18,39.9,45.9,-6.0,-0.16,D W L L L,237,Rúben Neves Pedro Neto - 5,Rui Patrício
+55,Hellas Verona,it ITA,10,38,11,12,15,46,48,-2,45,1.18,43.5,50.3,-6.8,-0.18,D D L D D,611,Antonín Barák - 7,Marco Silvestri
+56,Bordeaux,fr FRA,12,38,13,6,19,42,56,-14,45,1.18,42.0,56.8,-14.7,-0.39,L W L W W,,Hwang Ui-jo - 12,Benoît Costil
+57,Crystal Palace,eng ENG,14,38,12,8,18,41,66,-25,44,1.16,32.5,57.6,-25.1,-0.66,W L W L L,447,Wilfried Zaha - 11,Vicente Guaita
+58,Osasuna,es ESP,11,38,11,11,16,37,48,-11,44,1.16,37.6,51.2,-13.6,-0.36,L D W L L,,Ante Budimir - 11,Sergio Herrera
+59,Cádiz,es ESP,12,38,11,11,16,36,58,-22,44,1.16,34.0,55.0,-21.0,-0.55,W W L L D,,Álvaro Negredo - 8,Jeremías Ledesma
+60,Angers,fr FRA,13,38,12,8,18,40,58,-18,44,1.16,41.7,50.9,-9.1,-0.24,L L W L L,,Angelo Fulgini - 7,Paul Bernardoni
+61,Mainz 05,de GER,12,34,10,9,15,39,56,-17,39,1.15,47.1,50.9,-3.9,-0.11,W D D L W,221,Jean-Philippe Mateta - 7,Robin Zentner
+62,Southampton,eng ENG,15,38,12,7,19,47,68,-21,43,1.13,42.4,54.3,-12.0,-0.31,L W W L L,526,Danny Ings - 12,Alex McCarthy
+63,Valencia,es ESP,13,38,10,13,15,50,53,-3,43,1.13,43.9,54.1,-10.2,-0.27,L W L W D,142,Carlos Soler - 11,Jaume Doménech
+64,Genoa,it ITA,11,38,10,12,16,47,58,-11,42,1.11,37.8,54.6,-16.8,-0.44,L L W L W,53,Mattia Destro - 11,Mattia Perin
+65,Reims,fr FRA,14,38,9,15,14,42,50,-8,42,1.11,33.4,61.0,-27.6,-0.73,L D L L L,,Boulaye Dia - 14,Predrag Rajković
+66,Strasbourg,fr FRA,15,38,11,9,18,49,58,-9,42,1.11,52.6,46.5,+6.0,+0.16,L D L W D,,Ludovic Ajorque - 16,Eiji Kawashima
+67,Lorient,fr FRA,16,38,11,9,18,50,68,-18,42,1.11,48.8,53.1,-4.3,-0.11,W W L W D,,Terem Moffi - 14,Paul Nardi
+68,Brighton,eng ENG,16,38,9,14,15,40,46,-6,41,1.08,51.6,37.7,+13.9,+0.37,W L D W L,523,Neal Maupay - 8,Robert Sánchez
+69,Bologna,it ITA,12,38,10,11,17,51,65,-14,41,1.08,53.4,64.7,-11.4,-0.30,D D L D L,105,Roberto Soriano - 9,Łukasz Skorupski
+70,Levante,es ESP,14,38,9,14,15,46,57,-11,41,1.08,41.0,53.9,-13.0,-0.34,L D D L D,,José Luis Morales - 13,Aitor Fernández
+71,Brest,fr FRA,17,38,11,8,19,50,66,-16,41,1.08,47.3,55.7,-8.3,-0.22,W L L D L,,Steve Mounié - 9,Gautier Larsonneur
+72,Augsburg,de GER,13,34,10,6,18,36,54,-18,36,1.06,36.1,55.6,-19.4,-0.57,L L L W L,353,André Hahn - 8,Rafał Gikiewicz
+73,Fiorentina,it ITA,13,38,9,13,16,47,59,-12,40,1.05,45.2,55.1,-9.9,-0.26,D W D L D,105,Dušan Vlahović - 21,Bartłomiej Drągowski
+74,Udinese,it ITA,14,38,10,10,18,42,58,-16,40,1.05,42.9,52.1,-9.2,-0.24,L D L L L,158,Rodrigo De Paul - 9,Juan Musso
+75,Nantes,fr FRA,18,38,9,13,16,47,55,-8,40,1.05,48.5,56.0,-7.5,-0.20,W W W W L,,Ludovic Blas - 10,Alban Lafont
+76,Burnley,eng ENG,17,38,10,9,19,33,55,-22,39,1.03,39.6,57.8,-18.1,-0.48,L W L L L,178,Chris Wood - 12,Nick Pope
+77,Spezia,it ITA,15,38,9,12,17,52,72,-20,39,1.03,46.8,69.2,-22.4,-0.59,D L D W D,105,M'Bala Nzola - 11,Ivan Provedel
+78,Hertha BSC,de GER,14,34,8,11,15,41,52,-11,35,1.03,42.3,46.9,-4.5,-0.13,W D W D L,471,Krzysztof Piątek Matheus Cunha... - 7,Alexander Schwolow
+79,Arminia,de GER,15,34,9,8,17,26,52,-26,35,1.03,30.7,55.7,-25.0,-0.73,W L D D W,321,Ritsu Doan Fabian Klos - 5,Stefan Ortega
+80,Getafe,es ESP,15,38,9,11,18,28,43,-15,38,1.00,32.7,40.3,-7.6,-0.20,L L L W D,,Ángel Rodríguez Jaime Mata - 5,David Soria
+81,Alavés,es ESP,16,38,9,11,18,36,57,-21,38,1.00,42.4,51.0,-8.5,-0.22,L D W W L,,Joselu - 11,Fernando Pacheco
+82,Cagliari,it ITA,16,38,9,10,19,43,59,-16,37,0.97,45.6,63.1,-17.5,-0.46,D W D D L,105,João Pedro - 16,Alessio Cragno
+83,Torino,it ITA,17,38,7,16,15,50,69,-19,37,0.97,50.2,58.8,-8.6,-0.23,D L L D D,105,Andrea Belotti - 13,Salvatore Sirigu
+84,Köln,de GER,16,34,8,9,17,34,60,-26,33,0.97,39.1,55.2,-16.1,-0.47,W W L D W,35,Ondrej Duda - 7,Timo Horn
+85,Elche,es ESP,17,38,8,12,18,34,55,-21,36,0.95,30.4,58.5,-28.1,-0.74,L L L W W,185,Lucas Boyé - 7,Édgar Badía
+86,Nîmes,fr FRA,19,38,9,8,21,40,71,-31,35,0.92,41.5,64.9,-23.5,-0.62,L D W L L,,Renaud Ripart - 11,Baptiste Reynet
+87,Werder Bremen,de GER,17,34,7,10,17,36,57,-21,31,0.91,33.8,51.0,-17.2,-0.51,L L D L L,518,Niclas Füllkrug - 6,Jiří Pavlenka
+88,Huesca,es ESP,18,38,7,13,18,34,53,-19,34,0.89,35.3,44.3,-9.0,-0.24,W L W L D,,Rafa Mir - 13,Álvaro Fernández
+89,Benevento,it ITA,18,38,7,12,19,40,75,-35,33,0.87,41.6,66.1,-24.5,-0.64,L L L D D,158,Gianluca Lapadula - 8,Lorenzo Montipò
+90,Valladolid,es ESP,19,38,5,16,17,34,57,-23,31,0.82,37.1,51.8,-14.7,-0.39,D L L L L,,Shon Weissman Fabián Orellana - 6,Jordi Masip
+91,Eibar,es ESP,20,38,6,12,20,29,52,-23,30,0.79,41.7,47.0,-5.3,-0.14,W W D L L,,Kike - 12,Marko Dmitrović
+92,Fulham,eng ENG,18,38,5,13,20,27,53,-26,28,0.74,40.5,53.0,-12.5,-0.33,L L L D L,211,Bobby Reid - 5,Alphonse Areola
+93,West Brom,eng ENG,19,38,5,11,22,35,76,-41,26,0.68,33.8,67.7,-34.0,-0.89,D L L L L,283,Matheus Pereira - 11,Sam Johnstone
+94,Sheffield Utd,eng ENG,20,38,7,2,29,20,63,-43,23,0.61,31.5,62.0,-30.5,-0.80,L L W L W,263,David McGoldrick - 8,Aaron Ramsdale
+95,Crotone,it ITA,19,38,6,5,27,45,92,-47,23,0.61,38.5,71.6,-33.1,-0.87,L L W D D,53,Simeon Nwankwo - 20,Alex Cordaz
+96,Dijon,fr FRA,20,38,4,9,25,25,73,-48,21,0.55,31.7,75.1,-43.4,-1.14,L L L L W,,Mama Samba Baldé - 7,Anthony Racioppi
+97,Parma,it ITA,20,38,3,11,24,39,83,-44,20,0.53,40.0,61.5,-21.4,-0.56,L L L L L,158,Juraj Kucka Hernani - 7,Luigi Sepe
+98,Schalke 04,de GER,18,34,3,7,24,25,86,-61,16,0.47,27.0,68.1,-41.0,-1.21,L L L W L,18,Matthew Hoppe - 6,Ralf Fährmann
